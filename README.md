@@ -2,7 +2,7 @@
 
 Implementation of Decision trees and Random Forest for predicting rain.
 
-Check pdf documentation for more details.
+Check pdf document for more details.
 
 ## Dataset
 
